@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::NODE::relations' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::NODE::{ctor}</FUNCTION>
+    <DECORATED>??0NODE@FST@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::NODE::n_relation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::NODE::{ctor}</FUNCTION>
+    <DECORATED>??0NODE@FST@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::FST::position' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::FST::{ctor}</FUNCTION>
+    <DECORATED>??0FST@0@QAA@PADFUNODE@0@ZZ</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::FST::type' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::FST::{ctor}</FUNCTION>
+    <DECORATED>??0FST@0@QAA@PADFUNODE@0@ZZ</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>45</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::FST::string' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::FST::{ctor}</FUNCTION>
+    <DECORATED>??0FST@0@QAA@FUNODE@0@ZZ</DECORATED>
+    <FUNCLINE>45</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>45</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::FST::position' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::FST::{ctor}</FUNCTION>
+    <DECORATED>??0FST@0@QAA@FUNODE@0@ZZ</DECORATED>
+    <FUNCLINE>45</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>45</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::FST::type' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::FST::{ctor}</FUNCTION>
+    <DECORATED>??0FST@0@QAA@FUNODE@0@ZZ</DECORATED>
+    <FUNCLINE>45</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::FST::position' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::FST::{ctor}</FUNCTION>
+    <DECORATED>??0FST@0@QAE@PADAAU00@@Z</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>fst.cpp</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FST::FST::type' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FST::FST::{ctor}</FUNCTION>
+    <DECORATED>??0FST@0@QAE@PADAAU00@@Z</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

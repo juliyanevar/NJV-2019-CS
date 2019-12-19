@@ -1,0 +1,20 @@
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.csprojAssemblyReference.cache
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.csproj.CoreCompileInputs.cache
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\bin\Debug\NJV-2019Gen.exe.config
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\bin\Debug\NJV-2019Gen.exe
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\bin\Debug\NJV-2019Gen.pdb
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\bin\Debug\lib.dll
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\bin\Debug\lib.pdb
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.csproj.CopyComplete
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.exe
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.pdb
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\bin\Debug\NJV-2019Gen.exe.config
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\bin\Debug\NJV-2019Gen.exe
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\bin\Debug\NJV-2019Gen.pdb
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\bin\Debug\lib.dll
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\bin\Debug\lib.pdb
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.csprojAssemblyReference.cache
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.csproj.CoreCompileInputs.cache
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.csproj.CopyComplete
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.exe
+C:\Users\yneva\Desktop\NJV-2019\NJV-2019Gen\NJV-2019Gen\obj\Debug\NJV-2019Gen.pdb

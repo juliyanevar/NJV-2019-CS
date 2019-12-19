@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  Error.cpp
+  FST.cpp
+c:\users\yneva\desktop\njv-2019\njv-2019\fst.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+  Generation.cpp
+  Greibach.cpp
+  In.cpp
+  IT.cpp
+  LexicalAnalysis.cpp
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+c:\users\yneva\desktop\njv-2019\njv-2019\mfst.cpp(238): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  NJV-2019.cpp
+  Parm.cpp
+  PolishNotation.cpp
+  Создание кода...
+  NJV-2019.vcxproj -> C:\Users\yneva\Desktop\NJV-2019\Debug\NJV-2019.exe

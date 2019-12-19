@@ -1,0 +1,134 @@
+Протокол
+ Дата: 19.12.2019 09:18:55
+ Параметры 
+-in: in.txt
+-out: out.txt
+-log: log.txt
+ Исходные данные 
+Количество строк   :  39
+Количество символов: 426
+Проигнорировано    :   0
+
+
+Дерево разбора: 
+0   : S->tfi(){NrE;};S    
+6   : N->dti=E;           
+10  : E->s(W)             
+12  : W->l                
+16  : E->i                
+20  : S->m{N};            
+22  : N->dti;N            
+26  : N->dti=E;N          
+30  : E->i()              
+34  : N->dti;N            
+38  : N->dti;N            
+42  : N->dti;N            
+46  : N->dwi;N            
+50  : N->dwi;N            
+54  : N->dwi;N            
+58  : N->dbi;N            
+62  : N->dbi;N            
+66  : N->i=E;N            
+68  : E->iM               
+69  : M->vE               
+70  : E->l                
+72  : N->i=E;N            
+74  : E->l                
+76  : N->i=E;N            
+78  : E->s(W)             
+80  : W->l                
+83  : N->i=E;N            
+85  : E->p(W)             
+87  : W->i,W              
+89  : W->l                
+92  : N->i=E;N            
+94  : E->iM               
+95  : M->vE               
+96  : E->l                
+98  : N->c(E){N}a{N}N     
+100 : E->iM               
+101 : M->vE               
+102 : E->l                
+105 : N->i=E;             
+107 : E->l                
+112 : N->i=E;             
+114 : E->l                
+117 : N->i=E;N            
+119 : E->l                
+121 : N->i=E;N            
+123 : E->l                
+125 : N->oi;N             
+128 : N->oi;N             
+131 : N->oi;N             
+134 : N->ol;N             
+137 : N->oi;              
+
+
+
+Таблица лексем:
+1   tfi()
+2   {
+3   dti=l###;
+4   ri;
+5   };
+6   m
+7   {
+8   dti;
+9   dti=i@0;
+10  dti;
+11  dti;
+12  dti;
+13  dwi;
+14  dwi;
+15  dwi;
+16  dbi;
+17  dbi;
+18  i=il];
+19  i=l;
+20  i=l###;
+21  i=il####;
+22  i=il+;
+23  c(i>l)
+24  {
+25  i=l;
+26  }
+27  a
+28  {
+29  i=l;
+30  }
+31  i=l;
+32  i=l;
+33  oi;
+34  oi;
+35  oi;
+36  ol;
+37  oi;
+38  };
+Таблица идентификаторов: 
+#    Имя       Тип данных   Тип       Номер  Значение            
+0    func      byte         function  2      0
+1    funcs     byte         variable  8      0
+2    sqrt      byte         function  10     0
+3    qs        byte         variable  10     0
+4    x         byte         variable  28     5
+5    y         byte         variable  36     0
+6    z         byte         variable  40     0
+7    d         byte         variable  44     0
+8    sa        word         variable  48     "1234567890"
+9    sb        word         variable  52     "123456789"
+10   sc        word         variable  56     /0
+11   f         bool         variable  60     true
+12   q         bool         variable  64     false
+13   sqrt      byte         function  74     0
+14   pow       byte         function  78     0
+
+
+
+Таблица литералов: 
+Название  Тип       Значение                      
+L0        bool      true                          
+L1        byte      3                             
+L2        byte      5                             
+L3        word      "1234567890"                  
+L4        word      "123456789"                   
+L5        word      "primer"                      

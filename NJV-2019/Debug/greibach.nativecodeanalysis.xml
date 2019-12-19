@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>greibach.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GRB::Rule::size' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GRB::Rule::{ctor}</FUNCTION>
+    <DECORATED>??0Rule@GRB@@QAA@FHFUChain@01@ZZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\yneva\desktop\njv-2019\njv-2019</FILEPATH>
+      <FILENAME>greibach.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GRB::Greibach::size' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GRB::Greibach::{ctor}</FUNCTION>
+    <DECORATED>??0Greibach@GRB@@QAA@FFFURule@1@ZZ</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

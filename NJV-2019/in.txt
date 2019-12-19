@@ -1,0 +1,39 @@
+byte function func()
+{
+var byte s=sqrt(9);
+return s;
+};
+main
+{
+ var byte qs;
+ var byte x=func();
+ var byte y;
+ var byte z;
+ var byte d;
+ var word sa;
+ var word sb;
+ var word sc;
+ var bool f;
+ var bool q;
+ x=x ] 1;
+ f = true;
+ qs = sqrt(8);
+ y = pow(x,5);
+ z = x+0xfe;
+ condition (x > 5)
+ {
+  x=3;
+ }
+ else
+ {
+  x=5;
+ }
+  sa = "1234567890";
+ sb = "123456789";
+ output z;
+ output qs;
+ output y;
+ output "primer";
+ output x;
+};
+

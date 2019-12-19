@@ -1,0 +1,6 @@
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\lib\lib\bin\Debug\lib.dll
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\lib\lib\bin\Debug\lib.pdb
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\lib\lib\obj\Debug\lib.csprojAssemblyReference.cache
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\lib\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\lib\lib\obj\Debug\lib.dll
+C:\Users\yneva\Desktop\course_project\почти готовый курсач\lib\lib\obj\Debug\lib.pdb
